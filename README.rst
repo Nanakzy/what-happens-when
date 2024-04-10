@@ -39,6 +39,30 @@ popular searches from the internet as a whole. As you are typing
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
 
+When you enter "google" without typing www
+------------------------------------------
+When you type "google" (without the ".com" or "www") into your browser's address 
+bar and press enter, here's what happens behind the scenes:
+Browser Understanding: Most modern browsers are intelligent enough to understand 
+your intent even though you haven't provided the full web address. They recognize 
+"google" as a search term or a likely misspelling of "google.com".
+
+Action Taken: Here are the two possible scenarios based on browser behavior:
+Search Engine Activation:  Many browsers  treat "google" as a search term and automatically 
+redirect you to Google Search.  They prepend "[invalid URL removed]" to your entered text,
+effectively turning it into a search query. So, "google" becomes a search for "google" itself.
+
+Automatic Completion: Some browsers might offer suggestions as you type. In this case,
+you might see "google.com" displayed as the most likely completion, allowing you to select it 
+and proceed to the website.
+
+User Confirmation (Optional): Depending on your browser settings, you might see a confirmation 
+prompt before the redirection happens. This prompt might ask you to confirm if you want 
+to search for "google" or navigate to "google.com".
+
+In essence, typing just "google" offers a shortcut to reach Google Search or the Google website,
+depending on the browser's interpretation and your settings.
+
 The "enter" key bottoms out
 ---------------------------
 
